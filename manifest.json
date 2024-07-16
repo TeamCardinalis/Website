@@ -1,0 +1,20 @@
+{
+  "name": "Team Cardinalis",
+  "short_name": "Cardinalis",
+  "icons": [
+    {
+      "src": "https://static.wixstatic.com/media/2f35eb_d2c4798f91fe40d4b992402924defa84~mv2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/2f35eb_532341ec2a7441f9bd945eb1fd0aff48~mv2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
